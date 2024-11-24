@@ -33,3 +33,5 @@ pip-log.txt
 
 # Pycharm ide
 *.idea
+
+.venv/*
